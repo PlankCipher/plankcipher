@@ -1,9 +1,10 @@
 <h2 align="center">👋 Hi there! PlankCipher here 🤝</h2>
 
-<div style="text-align: center">
-    <img alt="PlankCipher's Twitter" width="29px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-</div>
+<p align="center">
+    <a href="https://twitter.com/PlankCipher">
+        <img alt="PlankCipher's Twitter" width="29px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    </a>
+</p>
 
 Howdy? I'm a curious passionate Full Stack Web Developer 👨‍💻 who looks forward to learning something new everyday or strengthening his existing knowledge.
 
