@@ -16,7 +16,7 @@ Howdy? I'm a curious passionate Full Stack Web Developer 👨‍💻 who looks f
 - 💬 Feel free to talk to me about **Node.js**, **Express.js**, **React**, **MySQL**, or anything tech related.
 - ☝️ Reach out to me on **Twitter** or **@PlankCipher#5551** on **Discord**.
 
-### Languages, technologies, and tools I use
+### Languages, technologies, and tools I love to use
 
 <!-- HTML -->
 <a href="https://developer.mozilla.org/en-us/docs/Web/HTML">
