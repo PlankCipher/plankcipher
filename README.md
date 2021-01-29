@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there! PlankCipher here 🤝</h2>
+<h1 align="center">👋 Hi there! PlankCipher here 🤝</h1>
 
 <p align="center">
     <a href="https://twitter.com/PlankCipher">
