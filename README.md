@@ -10,7 +10,7 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 
 <img src="https://github-readme-stats.vercel.app/api?username=plankcipher&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&custom_title=PlankCipher's%20GitHub%20Stats" align="right">
 
-- 👨‍💻 I’m currently working on [**pkgrouting**](https://github.com/PlankCipher/pkgrouting).
+- 👨‍💻 I’m currently working on a new Arch rice.
 - 🌱 I’m currently learning **React Native** and **Jest**.
 - ❤️ I love the **Open Source Community** so much.
 - 💬 Feel free to talk to me about **Node.js**, **Express.js**, **React**, **MySQL**, or anything tech related.
