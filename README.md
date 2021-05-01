@@ -113,9 +113,9 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="i3 window manager" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/I3_window_manager_logo.svg/323px-I3_window_manager_logo.svg.png" width="36" height="36">
 </a>
 
-<!-- Firefox -->
-<a href="https://www.mozilla.org/en-US/firefox/new/">
-  <img alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" width="36" height="36">
+<!-- Brave -->
+<a href="https://brave.com/">
+  <img alt="Brave" src="https://brave.com/static-assets/images/brave-favicon.png" width="36" height="36">
 </a>
 
 <br>
