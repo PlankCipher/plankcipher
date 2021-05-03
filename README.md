@@ -10,8 +10,8 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 
 <img src="https://github-readme-stats.vercel.app/api?username=plankcipher&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&custom_title=PlankCipher's%20GitHub%20Stats" align="right">
 
-- 👨‍💻 I’m currently working on **a new Arch rice**.
-- 🌱 I’m currently learning **React Native** and **Jest**.
+- 👨‍💻 I’m currently working on **[rofi_et](https://github.com/PlankCipher/rofi_et)**.
+- 🌱 I’m currently enhancing my knowledge about **Bash**.
 - ❤️ I love the **Open Source Community** so much.
 - 💬 Feel free to talk to me about **Node.js**, **Express.js**, **React**, **MySQL**, or anything tech related.
 - ☝️ Reach out to me on **Twitter** or **@PlankCipher#5551** on **Discord**.
