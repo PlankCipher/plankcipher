@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hi there! PlankCipher here 🤝</h1>
 
-<p align="center">
-    <a href="https://twitter.com/PlankCipher">
-        <img alt="PlankCipher's Twitter" width="29px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
-</p>
-
 Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻 who looks forward to learning something new everyday or strengthening his existing knowledge.
 
 <img src="https://github-readme-stats.vercel.app/api?username=plankcipher&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&custom_title=PlankCipher's%20GitHub%20Stats" align="right">
@@ -14,7 +8,7 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 - 🌱 I’m currently enhancing my knowledge about **Bash** and **RegExp**.
 - ❤️ I love the **Open Source Community** so much.
 - 💬 Feel free to talk to me about **Node.js**, **Express.js**, **React**, **MySQL**, or anything tech related.
-- ☝️ Reach out to me on **Twitter** or **@PlankCipher#5551** on **Discord**.
+- ☝️ Reach out to me **@PlankCipher#5551** on **Discord**.
 
 ### Languages, technologies, and tools I love to use
 
