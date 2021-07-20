@@ -6,7 +6,7 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 
 - 👨‍💻 I’m currently working on **[et](https://github.com/PlankCipher/et)**.
 - 🌱 I’m currently enhancing my knowledge about **Bash** and **RegExp**.
-- ❤️ I love the **Open Source Community** so much.
+- ❤️ I love **FOSS** so much.
 - 💬 Feel free to talk to me about **Node.js**, **Express.js**, **React**, **MySQL**, or anything tech related.
 - ☝️ Reach out to me **@PlankCipher#5551** on **Discord**.
 
