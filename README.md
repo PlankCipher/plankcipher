@@ -8,7 +8,7 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 - 🌱 I’m currently enhancing my knowledge about **Bash** and **RegExp**.
 - ❤️ I love **FOSS** so much.
 - 💬 Feel free to talk to me about **Node.js**, **Express.js**, **React**, **MySQL**, or anything tech related.
-- ☝️ Reach out to me **@PlankCipher#5551** on **Discord**.
+- ☝️ Reach out to me **@PlankCipher#5551** on **Discord** or [**@PlankCipher**](https://www.reddit.com/u/PlankCipher) on **Reddit**.
 
 ### Languages, technologies, and tools I love to use
 
