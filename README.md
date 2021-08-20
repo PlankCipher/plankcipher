@@ -102,9 +102,9 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="Archlinux" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a5/20151125181813%21Archlinux-icon-crystal-64.svg" width="36" height="36">
 </a>
 
-<!-- i3 -->
-<a href="https://i3wm.org/">
-  <img alt="i3 window manager" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/I3_window_manager_logo.svg/323px-I3_window_manager_logo.svg.png" width="36" height="36">
+<!-- Suckless Utilities -->
+<a href="https://suckless.org">
+  <img alt="Suckless Utilities" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" width="36" height="36">
 </a>
 
 <!-- Brave -->
