@@ -72,6 +72,11 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" width="36" height="36">
 </a>
 
+<!-- Docker -->
+<a href="https://www.docker.com/">
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36">
+</a>
+
 <!-- Git -->
 <a href="https://git-scm.com/">
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="36" height="36">
