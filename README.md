@@ -27,9 +27,39 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36">
 </a>
 
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/">
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36">
+</a>
+
 <!-- MySQL -->
 <a href="https://www.mysql.com/">
   <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36">
+</a>
+
+<!-- C++ -->
+<a href="https://www.cplusplus.com/">
+  <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36">
+</a>
+
+<!-- C -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36">
+</a>
+
+<!-- Bash -->
+<a href="https://www.gnu.org/software/bash/">
+  <img alt="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36">
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/">
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36">
+</a>
+
+<!-- Markdown -->
+<a href="https://daringfireball.net/projects/markdown/">
+  <img alt="Markdown" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="36" height="36">
 </a>
 
 <!-- Express -->
@@ -52,11 +82,6 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="Jest" src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest.png" width="36" height="36">
 </a>
 
-<!-- Vim -->
-<a href="https://www.vim.org/">
-  <img alt="Vim" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="36" height="36">
-</a>
-
 <!-- Babel -->
 <a href="https://babeljs.io/">
   <img alt="Babel JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="36" height="36">
@@ -67,14 +92,14 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="36" height="36">
 </a>
 
-<!-- Heroku -->
-<a href="https://www.heroku.com/">
-  <img alt="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" width="36" height="36">
+<!-- React Native -->
+<a href="https://reactnative.dev/">
+  <img alt="React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36">
 </a>
 
-<!-- Docker -->
-<a href="https://www.docker.com/">
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36">
+<!-- Vim -->
+<a href="https://www.vim.org/">
+  <img alt="Vim" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="36" height="36">
 </a>
 
 <!-- Git -->
@@ -82,29 +107,44 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="36" height="36">
 </a>
 
+<!-- GitHub -->
+<a href="https://github.com/">
+  <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36">
+</a>
+
 <!-- Yarn -->
 <a href="https://yarnpkg.com/">
   <img alt="Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="36" height="36">
 </a>
 
-<!-- React Native -->
-<a href="https://reactnative.dev/">
-  <img alt="React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36">
+<!-- Docker -->
+<a href="https://www.docker.com/">
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36">
 </a>
 
-<!-- Python -->
-<a href="https://www.python.org/">
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36">
-</a>
-
-<!-- Trello -->
-<a href="https://trello.com/">
-  <img alt="Trello" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="36" height="36">
+<!-- Heroku -->
+<a href="https://www.heroku.com/">
+  <img alt="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" width="36" height="36">
 </a>
 
 <!-- Arch -->
 <a href="https://archlinux.org/">
   <img alt="Archlinux" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a5/20151125181813%21Archlinux-icon-crystal-64.svg" width="36" height="36">
+</a>
+
+<!-- Linux -->
+<a href="https://www.kernel.org/">
+  <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36">
+</a>
+
+<!-- Gimp -->
+<a href="https://www.gimp.org/">
+  <img alt="Gimp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="36" height="36">
+</a>
+
+<!-- GCC -->
+<a href="https://gcc.gnu.org/">
+  <img alt="GCC" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" width="36" height="36">
 </a>
 
 <!-- Suckless Utilities -->
@@ -115,6 +155,11 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 <!-- Brave -->
 <a href="https://brave.com/">
   <img alt="Brave" src="https://brave.com/static-assets/images/brave-favicon.png" width="36" height="36">
+</a>
+
+<!-- Trello -->
+<a href="https://trello.com/">
+  <img alt="Trello" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="36" height="36">
 </a>
 
 <br>
