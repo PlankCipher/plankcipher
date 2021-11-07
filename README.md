@@ -137,11 +137,6 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36">
 </a>
 
-<!-- Gimp -->
-<a href="https://www.gimp.org/">
-  <img alt="Gimp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="36" height="36">
-</a>
-
 <!-- GCC -->
 <a href="https://gcc.gnu.org/">
   <img alt="GCC" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" width="36" height="36">
@@ -150,16 +145,6 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 <!-- Suckless Utilities -->
 <a href="https://suckless.org">
   <img alt="Suckless Utilities" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" width="36" height="36">
-</a>
-
-<!-- Brave -->
-<a href="https://brave.com/">
-  <img alt="Brave" src="https://brave.com/static-assets/images/brave-favicon.png" width="36" height="36">
-</a>
-
-<!-- Trello -->
-<a href="https://trello.com/">
-  <img alt="Trello" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="36" height="36">
 </a>
 
 <br>
