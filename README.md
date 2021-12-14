@@ -5,7 +5,7 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 <img src="https://github-readme-stats.vercel.app/api?username=plankcipher&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&custom_title=PlankCipher's%20GitHub%20Stats" align="right">
 
 - 👨‍💻 I’m currently practicing in the [**practicing_area**](https://github.com/PlankCipher/practicing_area).
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning **Java**.
 - ❤️ I love **FOSS** so much.
 - 💬 Feel free to talk to me about **Node.js**, **Express.js**, **React**, **MySQL**, or anything tech related.
 - ☝️ Reach out to me **@PlankCipher#5551** on **Discord** or [**@u/PlankCipher**](https://www.reddit.com/u/PlankCipher) on **Reddit**.
