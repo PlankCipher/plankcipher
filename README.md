@@ -47,6 +47,11 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36">
 </a>
 
+<!-- NASM -->
+<a href="https://www.nasm.us/">
+  <img alt="NASM" src="https://www.nasm.us/images/nasm.png" width="36" height="36">
+</a>
+
 <!-- Java -->
 <a href="https://www.oracle.com/java/">
   <img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="36" height="36">
