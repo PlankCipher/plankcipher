@@ -52,6 +52,11 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
   <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36">
 </a>
 
+<!-- Ruby -->
+<a href="https://www.ruby-lang.org/en/">
+  <img alt="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="36" height="36">
+</a>
+
 <!-- NASM -->
 <a href="https://www.nasm.us/">
   <img alt="NASM" src="https://www.nasm.us/images/nasm.png" width="36" height="36">
