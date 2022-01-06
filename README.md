@@ -38,7 +38,7 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 </a>
 
 <!-- C++ -->
-<a href="https://www.cplusplus.com/">
+<a href="https://isocpp.org/">
   <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36">
 </a>
 
