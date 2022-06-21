@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! PlankCipher here 🤝</h1>
 
-Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻 who looks forward to learning something new everyday or strengthening his existing knowledge.
+Howdy? I'm a curious self-taught Full Stack Web Developer 👨‍💻 who looks forward to learning something new everyday or strengthening his existing knowledge.
 
 <img src="https://github-readme-stats.vercel.app/api?username=plankcipher&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&custom_title=PlankCipher's%20GitHub%20Stats" align="right">
 
@@ -120,6 +120,11 @@ Howdy? I'm a curious passionate self-taught Full Stack Web Developer 👨‍💻
 <!-- Vim -->
 <a href="https://www.vim.org/">
   <img alt="Vim" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="36" height="36">
+</a>
+
+<!-- Emacs -->
+<a href="https://www.gnu.org/software/emacs/">
+  <img alt="Emacs" src="https://www.gnu.org/savannah-checkouts/gnu/emacs/images/emacs.png" width="36" height="36">
 </a>
 
 <!-- Git -->
