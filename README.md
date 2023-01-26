@@ -7,8 +7,7 @@ Howdy? I'm a curious self-taught developer who looks forward to learning somethi
 - 👨‍💻 I’m currently working on [**kabmat**](https://github.com/PlankCipher/kabmat).
 - 🌱 I’m currently learning more **C++**.
 - ❤️ I love **FOSS** so much.
-- 💬 Feel free to talk to me about **Node.js**, **Express.js**, **React**, **MySQL**, or anything tech related.
-- ☝️ Reach out to me **@PlankCipher#5551** on **Discord**, [**@u/PlankCipher**](https://www.reddit.com/u/PlankCipher) on **Reddit**, or via **email** at **plankcipher1@protonmail.com**.
+- 💬 Reach out to me **@PlankCipher#5551** on **Discord**, [**@u/PlankCipher**](https://www.reddit.com/u/PlankCipher) on **Reddit**, or via **email** at **plankcipher1@protonmail.com**.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4HZ5S3)
 
