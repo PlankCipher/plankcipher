@@ -377,4 +377,4 @@ A curious self-taught developer who strives to keep learning interesting stuff.
 <br />
 <br />
 
-<img alt="banner of a coffee to code IIFE" src="./assets/code_snippet.png" style="border-radius: 13px;" />
+<img alt="coffee to code IIFE" src="./assets/code_snippet.png" />
