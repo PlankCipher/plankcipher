@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi there! PlankCipher here 🤝</h1>
+<h1 align="center">👋 Howdy! I'm PlankCipher</h1>
 
-Howdy? I'm a curious self-taught developer who looks forward to learning something new everyday.
+A curious self-taught developer who strives to keep learning interesting stuff.
 
 <img alt="PlankCipher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=plankcipher&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&custom_title=PlankCipher's%20GitHub%20Stats" align="right">
 
