@@ -2,7 +2,7 @@
 
 A curious self-taught developer who strives to keep learning interesting stuff.
 
-<img alt="PlankCipher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=plankcipher&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&custom_title=PlankCipher's%20GitHub%20Stats" align="right">
+<img alt="PlankCipher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=plankcipher&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&custom_title=PlankCipher's%20GitHub%20Stats&hide_border=true&border_radius=13&rank_icon=github" align="right" />
 
 - 👨‍💻 I’m currently working on [**kabmat**](https://github.com/PlankCipher/kabmat).
 - 🌱 I’m currently learning more **C++**.
@@ -176,4 +176,4 @@ A curious self-taught developer who strives to keep learning interesting stuff.
 <br>
 <br>
 
-![Code snippet](./assets/code_snippet.png)
+<img alt="banner of a coffee to code IIFE" src="./assets/code_snippet.png" style="border-radius: 13px;" />
